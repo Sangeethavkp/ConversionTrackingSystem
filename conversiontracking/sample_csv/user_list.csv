@@ -1,0 +1,4 @@
+ID,Employee Id,User Name,Email,First name,Last name,Designation,Department,Category,DOJ,Reporting,Gender,Mobile,Blood Group,Skill set,Password,User Role
+1,205365,lorine,lorine@yopmail.com,lorine,mathi,NULL,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,$2a$12$5jRo3lScYWxaOixUiM7AQuOfgprxj0zcOUkQtZR9xtHAPSeU.TDPS,7
+2,435455,User 2,manager@spi-global.com,Kannan,Luc,Publisher,Lotsu,Guide,0000-00-00,Boss,male,1236598748,A+ve,Managing,$2y$10$LEFGhlOzMtXWM5PbE/ePDuF6RCIgqSxle6s49DRiTv0RIw9MDq8Uq,23
+3,204341,User 3,employee@spi-global.com,Joe,Bob,Publisher,E-pub,Books,0000-00-00,Donald,male,3698745269,O+ve,E-pub,$2y$10$BEBrXdxTghYvMfKHFmrV1.os0.2A7ramKsgME6jQLshpj0fiZq7Q.,11
